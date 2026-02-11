@@ -1,0 +1,12 @@
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+
+# PyInstaller 빌드 폴더 및 파일 (실행 파일 찌꺼기)
+build/
+dist/
+*.spec
+
+# 실행 파일 및 압축 파일 (Releases에 따로 올릴 파일들)
+*.exe
+*.zip
